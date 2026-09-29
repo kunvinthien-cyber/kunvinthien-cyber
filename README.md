@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kun Vinthien
 
-### 💻 Junior Front-End Developer | Computer Science Graduate
+### 💻 Junior Developer | Computer Science Graduate
 
 I'm a **Junior Front-End Developer** passionate about building responsive, user-friendly, and modern web applications.
 
