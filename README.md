@@ -2,7 +2,7 @@
 
 ### 💻 Junior Developer | Computer Science Graduate
 
-I'm a **Junior Front-End Developer** passionate about building responsive, user-friendly, and modern web applications.
+I'm a **Junior  Developer** passionate about building responsive, user-friendly, and modern web applications.
 
 I enjoy turning ideas into real-world applications and continuously improving my skills in **Frontend Development, Backend APIs, Databases, and Software Development**.
 
